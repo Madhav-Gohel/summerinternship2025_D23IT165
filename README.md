@@ -11,85 +11,125 @@
 ---
 ## **Daily Progress**
 
-### **Day 1 (16 May 2025)**
+### **Day 1**
 
-- Understood project goals and explored system user roles.
+* Understood project goals and explored system user roles.
 
-### **Day 2 (17 May 2025)**
+### **Day 2**
 
-- Familiarized with the existing codebase and setup local environment.
+* Familiarized with the existing codebase and setup local environment.
 
-### **Day 3 (18 May 2025)**
+### **Day 3**
 
-- Planned integration of a counseling form into the website.
+* Planned integration of a counseling form into the website.
 
-### **Day 4 (19 May 2025)**
+### **Day 4**
 
-- Implemented the initial version of the counseling form.
+* Implemented the initial version of the counseling form.
 
-### **Day 5 (20 May 2025)**
+### **Day 5**
 
-- Finalized form structure and tested input fields.
+* Finalized form structure and tested input fields.
 
-### **Day 6 (21 May 2025)**
+### **Day 6**
 
-- Started converting the form into a multi-step wizard layout.
+* Started converting the form into a multi-step wizard layout.
 
-### **Day 7 (22 May 2025)**
+### **Day 7**
 
-- Built navigation and step transitions for the wizard.
+* Built navigation and step transitions for the wizard.
 
-### **Day 8 (23 May 2025)**
+### **Day 8**
 
-- Designed and styled the wizard form as per UI requirements.
+* Designed and styled the wizard form as per UI requirements.
 
-### **Day 9 (24 May 2025)**
+### **Day 9**
 
-- Continued styling and added progress indicators.
+* Continued styling and added progress indicators.
 
-### **Day 10 (25 May 2025)**
+### **Day 10**
 
-- Finalized CSS and responsive design for the form wizard.
+* Finalized CSS and responsive design for the form wizard.
 
-### **Day 11 (26 May 2025)**
+### **Day 11**
 
-- Added input validations to all steps of the wizard form.
+* Added input validations to all steps of the wizard form.
 
-### **Day 12 (27 May 2025)**
+### **Day 12**
 
-- Performed integration testing on the complete form flow.
+* Performed integration testing on the complete form flow.
 
-### **Day 13 (28 May 2025)**
+### **Day 13**
 
-- Conducted cross-device and responsiveness testing.
+* Conducted cross-device and responsiveness testing.
 
-### **Day 14 (29 May 2025)**
+### **Day 14**
 
-- Pushed final UI and form code to GitHub.
+* Pushed final UI and form code to GitHub.
 
-### **Day 15 (30 May 2025)**
+### **Day 15**
 
-- Analyzed system features and user data flow.
+* Analyzed system features and user data flow.
 
-### **Day 16 (31 May 2025)**
+### **Day 16**
 
-- Defined key user data fields for clustering.
+* Defined key user data fields for clustering.
 
-### **Day 17 (1 June 2025)**
+### **Day 17**
 
-- Documented requirements for quiz generation and career suggestions.
+* Documented requirements for quiz generation and career suggestions.
 
-### **Day 18 (2 June 2025)**
+### **Day 18**
 
-- Researched techniques for auto quiz generation.
+* Researched techniques for auto quiz generation.
 
-### **Day 19 (3 June 2025)**
+### **Day 19**
 
-- Planned integration of quiz and career recommendations.
+* Planned integration of quiz and career recommendations.
 
-### **Day 20 (4 June 2025)**
+### **Day 20**
 
-- Finalized important attributes for clustering model.
+* Finalized important attributes for clustering model.
+
+### **Day 21**
+
+* Collected real and mock data samples for training.
+
+### **Day 22**
+
+* Preprocessed data and normalized values.
+
+### **Day 23**
+
+* Applied K-Means clustering and visualized clusters.
+
+### **Day 24**
+
+* Analyzed performance of clustering results.
+
+### **Day 25**
+
+* Improved clustering by tuning parameters.
+
+### **Day 26**
+
+* Explored DBSCAN clustering but results weren’t effective.
+
+### **Day 27**
+
+* Studied ensemble learning techniques.
+
+### **Day 28**
+
+* Implemented Random Forest model on clustered data.
+
+### **Day 29**
+
+* Evaluated model using accuracy and confusion matrix.
+
+### **Day 30**
+
+* Explored Gradient Boosting and compared with Random Forest.
 
 ---
 _<sub> This is just for the Academic Records</sub>_
