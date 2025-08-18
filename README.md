@@ -130,6 +130,25 @@
 ### **Day 30**
 
 * Explored Gradient Boosting and compared with Random Forest.
+### **Day 31**
+
+* Collected additional data for ensemble model training.
+
+### **Day 32**
+
+* Tuned ensemble model parameters and improved accuracy.
+
+### **Day 33**
+
+* Analyzed feature importance from trained models.
+
+### **Day 34**
+
+* Integrated clustering results into prediction pipeline.
+
+### **Day 35**
+
+* Built pipeline to predict cluster from new student data.
 
 ---
 _<sub> This is just for the Academic Records</sub>_
