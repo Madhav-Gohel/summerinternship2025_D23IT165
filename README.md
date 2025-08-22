@@ -157,5 +157,9 @@
 ### **Day 37**
 
 * Created FastAPI server structure.
+
+### **Day 38**
+
+* Loaded Pickle model into FastAPI route.
 ---
 _<sub> This is just for the Academic Records</sub>_
