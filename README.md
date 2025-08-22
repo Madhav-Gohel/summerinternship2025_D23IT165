@@ -165,5 +165,9 @@
 ### **Day 39**
 
 * Created prediction endpoint and tested with inputs.
+
+### **Day 40**
+
+* Cleaned up API response and handled errors.
 ---
 _<sub> This is just for the Academic Records</sub>_
