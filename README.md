@@ -153,5 +153,9 @@
 ### **Day 36**
 
 * Saved trained model using Pickle for deployment.
+
+### **Day 37**
+
+* Created FastAPI server structure.
 ---
 _<sub> This is just for the Academic Records</sub>_
