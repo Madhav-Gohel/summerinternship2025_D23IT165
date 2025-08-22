@@ -150,5 +150,8 @@
 
 * Built pipeline to predict cluster from new student data.
 
+### **Day 36**
+
+* Saved trained model using Pickle for deployment.
 ---
 _<sub> This is just for the Academic Records</sub>_
