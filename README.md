@@ -194,5 +194,9 @@
 * Linked form submission with prediction API call.
 
 ### **Day 47**
+
+* Finalized end-to-end integration and conducted QA.
+
+
 ---
 _<sub> This is just for the Academic Records</sub>_
