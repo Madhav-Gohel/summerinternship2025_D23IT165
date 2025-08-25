@@ -177,5 +177,13 @@
 
 * Conducted full flow testing from form to model prediction.
 
+### **Day 43**
+
+* Optimized code and tested edge cases.
+
+### **Day 44**
+
+* Validated predictions with known outcomes.
+
 ---
 _<sub> This is just for the Academic Records</sub>_
