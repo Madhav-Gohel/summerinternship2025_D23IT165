@@ -169,5 +169,13 @@
 ### **Day 40**
 
 * Cleaned up API response and handled errors.
+### **Day 41**
+
+* Documented API usage and sample requests.
+
+### **Day 42**
+
+* Conducted full flow testing from form to model prediction.
+
 ---
 _<sub> This is just for the Academic Records</sub>_
