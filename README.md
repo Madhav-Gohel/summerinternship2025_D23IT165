@@ -199,5 +199,10 @@
 
 ### **Day 48**
 
+* Cleaned up repo, added README, and deployment notes.
+
+### **Day 49**
+
+* Reviewed the model integration flow, verified the FastAPI inference using sample inputs, and checked form submission to prediction output consistency. Identified areas for optimization in form handling and model prediction accuracy.
 ---
 _<sub> This is just for the Academic Records</sub>_
