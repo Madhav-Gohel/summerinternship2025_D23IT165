@@ -188,5 +188,10 @@
 ### **Day 45**
 
 * Created visual representation of model predictions.
+
+### **Day 46**
+
+* Linked form submission with prediction API call.
+
 ---
 _<sub> This is just for the Academic Records</sub>_
