@@ -185,5 +185,8 @@
 
 * Validated predictions with known outcomes.
 
+### **Day 45**
+
+* Created visual representation of model predictions.
 ---
 _<sub> This is just for the Academic Records</sub>_
